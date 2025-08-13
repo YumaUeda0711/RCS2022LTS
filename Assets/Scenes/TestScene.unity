@@ -1466,7 +1466,7 @@ VideoPlayer:
   - {fileID: 0}
   m_DirectAudioVolumes:
   - 1
-  m_Url: file://C:/Users/ueda.yuma/Projects/unity/RCS2022LTS/Assets/texture/card_anime.mp4
+  m_Url: file://C:/Users/ueda.yuma/Projects/unity/RCS2022LTS/docs/videos/card_anime.mp4
   m_EnabledAudioTracks: 01
   m_DirectAudioMutes: 00
   m_ControlledAudioTrackCount: 1
